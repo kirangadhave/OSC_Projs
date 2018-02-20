@@ -1,0 +1,1 @@
+cmd_/home/kbg/GraduateSchool/OperatingSystem/OSC_Projs/PP1/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/kbg/GraduateSchool/OperatingSystem/OSC_Projs/PP1/simple.ko /home/kbg/GraduateSchool/OperatingSystem/OSC_Projs/PP1/simple.o /home/kbg/GraduateSchool/OperatingSystem/OSC_Projs/PP1/simple.mod.o ;  true
